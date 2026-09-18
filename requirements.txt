@@ -1,0 +1,3 @@
+claude-agent-sdk>=0.2.140
+python-dotenv>=1.0
+pyyaml>=6.0

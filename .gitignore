@@ -1,0 +1,10 @@
+.env
+.venv/
+workspace/
+__pycache__/
+
+# Cadangan .env ikut memuat rahasia (token, sandi, kunci API)
+.env.*
+!.env.example
+*.bak
+*.bak[0-9]*
